@@ -74,7 +74,7 @@ body {
 /* HERO SECTION */
 .hero {
     height: 60vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(hero.jpg);;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(hero.jpg);
     /* background-image: url(../IMAGES/hero.jpg); */
     display: flex;
     flex-direction: column;

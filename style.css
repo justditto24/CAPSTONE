@@ -126,6 +126,13 @@ body {
     text-align: center;
     margin: 15px;
 }
+
+.stars{
+    font-weight: bold;
+    align-items: center;
+    justify-content: center;
+}
+
 .menu h2{
     text-align: left;
     padding: 7px;

@@ -225,6 +225,9 @@ body {
 
 
 /* TABLE */
+.table-wrapper h2{
+    margin-top: 10px;
+}
 .table {
     width: 100%;
     border-collapse: collapse;
